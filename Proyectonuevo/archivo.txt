@@ -1,0 +1,5 @@
+En la clase de hoy tratò los temas:
+1: Diccionarios
+Operaciones:Crear, Acceder, Agregar, Borrar, etc.
+2:Archivos
+Operaciones
